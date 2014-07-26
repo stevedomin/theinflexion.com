@@ -815,4 +815,4 @@ Starting a startup
 - Startups aren't for everyone: takes a specific type of person.
 - Don't give up. "They weren't that smart. They just stuck around."
 - PB: Make sure you're in contact with reality. e.g. "It's not ready yet." Sell the product and then build it. Have a user or a handful of users that you can focus on. Make something small and crappy and just give it to someone.
-- His goal for Gmail was to get to 100 happy users. "What would it take for your to be a happy user."
+- His goal for Gmail was to get to 100 happy users. "What would it take for you to be a happy user." Then he'd list those features and do the ones that made sense, until those first 100 were really happy, and things took off from there.
