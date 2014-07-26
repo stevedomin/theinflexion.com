@@ -5,7 +5,7 @@ title: Notes from Startup School Europe (London)
 subtitle: "26/07/2014"
 cover_image: blog-cover.jpg
 collection: blog
-excerpt: "Incorporated provides a great typography, responsive design, author details, semantic markup and more."
+excerpt: "Notes from YC Startup School Europe, in London."
 
 author:
   name: Nabeel Qureshi
