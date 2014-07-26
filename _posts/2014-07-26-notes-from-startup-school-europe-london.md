@@ -13,7 +13,7 @@ author:
   bio: GoCardless
 ---
 
-<i>These notes are in progress, and will be updated as the event continues.</i>
+<i>Discuss on HN [here](https://news.ycombinator.com/item?id=8089599).</i>
 
 <i>Follow us on Twitter: [@nabeelqu](https://twitter.com/nabeelqu) and [@stevedomin](https://twitter.com/stevedomin)
 </i>
