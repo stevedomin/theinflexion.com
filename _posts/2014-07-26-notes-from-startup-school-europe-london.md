@@ -15,6 +15,12 @@ author:
 
 <i>These notes are in progress, and will be updated as the event continues.</i>
 
+1\. [Patrick Collison, Stripe](#patrick_collison_stripe)
+
+2\. [Adora Cheung, Homejoy](#adora_cheung_homejoy)
+
+3\. [Ian Hogarth, Songkick](#ian_hogarth_songkick)
+
 ## Patrick Collison, Stripe
 
 ### Summary
@@ -124,6 +130,27 @@ The vast majority of the time they are not thinking about those problems. The de
 
 ## Adora Cheung, Homejoy
 
+### Summary
+
+- Adora & Aaron (her co-founder) spent 3 years looking for the Homejoy idea. They tried tens of other ideas in between. The talk's theme is 'how not to die.'
+- Their mission was twofold: (1) make people happier somehow (2) build a huge business (beacuse this is a proxy for impact.)
+- Finding a problem was the key thing:
+  - "Work on a problem you actually have" was fine, except that they didn't feel like they had any problems.
+  - Finding problems is like finding a needle in a haystack. Some people are good at it, but most of us just have to examine each piece of hay one by one.
+  - Thus, early-stage startups require patience .
+- Eventually, one time Aaron was trying to get his house cleaned, but found that you either had to pay agencies an extortionate amount for a good cleaner, or get someone sketchy off Craigslist. So they decided to tackle the problem - one that they knew existed.
+- Even then, it took a long path. They spun the website up and - no customers.
+- Since it's a marketplace, you have to focus on one side of the chicken-and-egg. They focussed on getting customers and figured they'd just clean the place themselves.
+- Initial customers: on a hot day, Adora went to the fair with a box of free bottles, handed them out, and just guilt-tripped people into getting their place cleaned.
+- They got jobs as cleaners and found out that cleaning is really hard; but the experience was invaluable, because the way cleaning companies worked could have been way more efficient.
+- Nearly ran out of money and were going to quit; luckily, both Max Levchin and PG gave them $25k each. (If they didn't receive that money, they would have shut the business down.)
+- How did you keep on going? How not to quit?
+  - Be really simple and don't stress out about things. A lot of crap happens. You can't make a stressful situation more stressful. "How am I going to deal with this?" You can always survive, just don't panic.
+  - You only fail if you stop trying. So if you don't give up, you won't have failed.
+- Ignore luck. Just work really hard.
+
+### Raw Notes
+
 Mission to make homes happier everywhere
 
 London & Berlin are on the cusp of something great. SV has time on its side.
@@ -218,6 +245,25 @@ Luck is a bunch of crap. Sure, there are lucky events in your life. She got luck
 You need to work really really hard. And smart.
 
 ## Ian Hogarth, Songkick
+
+### Summary
+
+- Has built Songkick over 7 years to over 10m uniques per month. Startups come and go; just persevere.
+- "Pretty much everyone seemed better than us." Dropbox was the standout success, and then Disqus/Songkick; the rest either failed or got minorly acquired. Startups are hard.
+- 3 key points: (1) Music startups are demoralising; (2) understand the game; and (3) don't give up.
+- PG told them to kill Hollywood, but in consolidated industries, the best move is to work with the incumbents. (e.g. Stripe HAD to work with banks, or they'd have died.) Whereas with fragmented industries like cleaning and taxis, you have a chance to disrupt them.
+- Startups aren't a great idea in rationality terms. The main reason to build a startup is that you're really motivated to solve a problem and the satisfaction of solving it justifies 5-10 years of failure and stress, much of which will be out of your control.
+- Framework for success: gratification (make users happy), growth (how to get more users) and economic (how to make money). The best startups nail all of these. (Sean Ellis.)
+- How to develop your resilience:
+  - It usually does get better if you keep going.
+  - Dec 2010, nothing felt like it was working; brutal board meeting; so miserable that whole Christmas. Low point. Growth had been tanking. Just before a bunch of things just started to work.
+  - **"Survival is a growth strategy."**
+  - New startups get built when new platforms emerge; e.g. Shazam and Pandora were 8 and 7 years old when the iPone laucnhed, and the iPhone basically doubled their growth overnight.
+  - Understand why you are doing this. What is the passion? When you're low, refer yourself back to the 'why'. You earnestly want to solve a problem.
+  - Spend some time with your users.
+  - Start the company with people you can really count on. Build on top of a long-standing and trusting relationship.
+
+### Raw notes
 
 Over 10m unique visits per month.
 
