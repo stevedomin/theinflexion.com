@@ -10,16 +10,29 @@ excerpt: "Notes from YC Startup School Europe, in London."
 author:
   name: Nabeel Qureshi
   twitter: nabeelqu
-  bio: Co-founder
+  bio: GoCardless
 ---
 
 <i>These notes are in progress, and will be updated as the event continues.</i>
+
+<i>Follow us on Twitter: [@nabeelqu](https://twitter.com/nabeelqu) and [@stevedomin](https://twitter.com/stevedomin)
+</i>
 
 1\. [Patrick Collison, Stripe](#patrick_collison_stripe)
 
 2\. [Adora Cheung, Homejoy](#adora_cheung_homejoy)
 
 3\. [Ian Hogarth, Songkick](#ian_hogarth_songkick)
+
+4\. [Hiroki Takeuchi, GoCardless](#hiroki_takeuchi_gocardless)
+
+5\. [Alfred Lin, Sequoia](#alfred_lin_sequoia)
+
+6\. [Urske Srsen, Bellabeat](#urske_srsen_bellabeat)
+
+7\. [Office Hours, Qasar Younis and Kevin Hale](#office_hours_qasar_younis_and_kevin_hale)
+
+8\. [Paul Buchheit, Y Combinator](#paul_buchheit_y_combinator)
 
 ## Patrick Collison, Stripe
 
@@ -352,3 +365,454 @@ How to develop your resilience:
 - When you're low, refer yourself back to the 'why'. You earnestly want to solve a problem.
 - Spend some time with your users.
 - Start the company with people you can really count on. Build on top of a long-standing and trusting relationship.
+
+## Hiroki Takeuchi, GoCardless
+
+### Summary
+
+- **Your journey starts way before you think it does.**
+  - Experience with internship at Auctomatic, and early YC, massively shaped his future success
+  - At the time, hardly knew anything about startups or programming
+- **Be careful whiteboarding ideas.**
+  - Hiroki & Matt had a bad habit early on of whiteboarding ideas and then tearing them apart
+  - By doing GrouPAY and failing, they discovered GoCardless & also that a lot of the work was transferable, leading them to ultimate success
+- **Focus on momentum.**
+  - Success never just looks like a straight line up; there are peaks & troughs
+  - You have to keep doing things and course-correcting as you go, not spending too much time 'aiming the rocket'
+- **Be an emotional cockroach.**
+  - Cockroaches are survivors. Emotionally, you have to be unaffected by events.
+  - They were rejected over 60 times by various investors before finally winning investment.
+  - Sam Altman: "Starting a business is like riding a wave between life and death. If you can hang on long enough, you're bound to succeed"
+
+### Raw notes
+
+Auctomatic: an inventory management tool for power sellers
+
+Met Harj via connections and persuaded them to give him an internship
+
+Got to see first-hand what it was like to see an early-stage startup
+
+2-bedroom place and it was 6 of them
+
+Had to sleep in shifts
+
+Did customer interviews, tested out the product by selling lasers imported from China
+
+Had it not been for these experiences, may not have applied for YC.
+
+Lesson 1: Your journey starts way before you think it does. Think about what you could be doing
+right now. You never know when it will become useful.
+
+Lesson 2: Be careful whiteboarding ideas.
+
+Used to spend hours bouncing around ideas. (Him and Matt). Whenever they came up with an idea they just used to tear it apart. All on a whiteboard.
+When it came to leaving their jobs, they still didn't have an idea on what they wanted to do.
+Just start the damn thing.
+
+GrouPAY - approaching demo day, no hockey stick curve. Were terrified. Decided to move the whole company - everyone - onto sales. All of their customers were in the UK. Cold called local football team managers. Not much success.
+
+Decided to pivot the business and become GoCardless.
+
+A lot of the work they'd done for GP turned out to be the work you'd had to have done for GC anyway. But they didn't foresee. If they hadn't started GrouPAY, they wouldn't have come up with GoCardless.
+
+The reason it didn't work was that they weren't building something for themselves; or friends, or family.
+
+Beware of theoretical ideas. Use ideas from direct experience. "Is this something that I want to use myself?"
+
+Lesson 3: Focus on momentum
+
+Get your head down and run with it. Course-correct. Wiggle your way to success. It never looks like a straight line.
+
+Momentum is the hardest thing to come by. Getting from standstill to something at all.
+
+Lesson 4: Be an emotional cockroach
+
+Nearly bankrupt several times; living in awful conditions. Same with Airbnb founders.
+
+Rejected on at least 60 occasions by investors. Knew that they were going to be rejected in almost every meeting.
+
+Almost overnight, they went from abject failure to smashing their targets.
+
+It's not been smooth sailing from there either. Every time you think you'll get to a certain milestone and it'll all be OK. But no matter what, there's always the next challenge. Never appreciated how hard it would be to start a business.
+
+If it wasn't for his co-founders et al, he wouldn't have made this far.
+
+Sam Altman: "Starting a business is like riding a wave between life and death. If you can hang on long enough, you're bound to succeed"
+
+If you're an emotional cockroach, you can do it.
+
+## Alfred Lin, Sequoia
+
+### Summary
+
+- The course is non-linear. Don't give up.
+- Companies that get started by personal passion and personal pain do way better.
+- Exponential growth charts - if you go to the beginnings, it looks flat. It takes a long time to get the flywheel going.
+- Solve a real, hard problem that nobody else is solving. Find a core competency that you can own and talk about.
+
+### Raw notes
+
+Founded LinkExchange with Tony. Originally wanted to open a Subway franchise (Tony loves food). Working for Oracle and were extremely bored. Started a company building websites on the side. Put their hearts and souls into making it beautiful; 96 and 97. Solving a problem that a lot of people wanted.
+
+Built these great websites but there was no traffic. Could go buy advertising, but if you're a small website, how do you get traffic?Linked the websites together; i.e. if you showed a banner, your website would get shown somewhere else.
+
+Sold the company to Microsoft; had the largest audience on the web.
+
+He was in a PhD program. Tony thought this was boring. Parents thought be a scholar, then be a doctor, then lawyer, then engineer, then all the way down was to be in business.
+
+Got easier and easier to sell the next company because of the network effect. AuctionWeb joined early on; eBay's original name.
+
+Arguably sold the company too early, but everyone was happy; got to do the things they wanted to do. Started a fund in 1999 called VentureFrogs, right before the dot-com crash. Just got luckky; invested in some amazing companies like AskJeeves, OpenTable and so on.
+
+Focussed on Zappos and TellMeNetworks because they weren't doing so well; the rest, they figured, would be fine whether or not they were involved. TMN was losing $60m a year! But raised $265m.
+
+Company raised so much money that it was a bad decision; 'too much'. Becomes engrained in the company to waste money. Weren't thoughtful. So Tony & Alfred - refocussed the company to the enterprise. It was a voice portal. Can ask it any question. Pivoted to automating voice recognition 1-800 numbers. One of the first SaaS companies in the world. Sold it to Microsoft for $800m.
+
+Zappos: pitch was that 5% of the shoe business was on mail order. The internet was clearly gonna be bigger than mail order. Hence shoes over the internet could be made to work. Founders build business that logically should exist, but people don't think it can. (The latter means it's not been started yet).
+
+Was hard to raise money when they did it. Kept putting money in $500k increments. 2000-2001 had to keep going cause no one else would fund. Tony sold his apartments to put more money in the company. Personal sacrifices, employees taking lower salaries, etc. All eventually worked out.
+
+Never wanted to throw in the towel, just didn't understand why people didn't see the world the way they did.
+
+E-Commerce: people left no margin for error. Sometimes things don't work out the way the model says. Also, later adopters lower LTV than early adopters. So lots of companies failed.
+
+So Zappos tried to be profitable on the first order. Unheard of back then.
+
+The thing they learned at LE is that they wanted to build a company focussed on building a great culture. At Zappos they made Zappos the centre of operating principles. Companies end up not having great cultures because they don't focus on it; the culture is only good if you invest in it. Stay healthy, focus on doing these things on a daily basis.
+
+VentureFrogs; at least wanted to provide capital back, a good return. Felt personally responsible. TM was overcapitalised, Zappos was undercapitalised.
+
+"Leverage is great on the upside, but can kill you on the downside"
+
+On LE, they nearly missed payroll a few times.
+
+Need to be an emotional rock. Nearly went bankrupt several times. Had to get a $10m line of credit at one point.
+
+Plan for what's going to happen. Cover your downside. You can be off a lot ("compounding works in mysterious ways"), e.g. inventory.
+
+Zappos's key innovation was: Focus on customer service
+
+Solve a hard problem and make it your core competency. Be personally passionate about it.
+
+Were running their distribution centre and call centre 24/7. Pick, pack and ship within 4 hours. Other people were batching them. Figured out how to get products to people after they ordered them in really short amounts of time, to overnight, before selling the company to Amazon.
+
+Had a warehouse that every single item had a unique license plate number; close to 100% accuracy in inventory management which was unheard of before.
+
+The course is non-linear. Don't give up.
+
+Companies that get started by personal passion and personal pain do way better.
+
+Exponential growth charts - if you go to the beginnings, it looks flat. It takes a long time to get the flywheel going.
+
+Solve a real, hard problem that nobody else is solving. Find a core competency that you can own and talk about.
+
+How should companies work with their investors? Has been on both sides. Personally thinks Sequoia is a special place b/c they have started cos and been on the mgmt teams of co's. Don't see themselves as "buy low sell high"; you want a partner, not an investor.
+
+Often, pitches are v short; people date for many years, get married, haev a partnership etc; 50% of those relationships still end up breaking up. So spend more time getting to know your investors first. If things go well, it's a 5-10-15 year journey.
+
+Understand who the founders are. Looking for people they want to work with for the next 5-10-15 yrs.
+Have very clear reasons why you are going to disrupt the industry.
+
+## Urske Srsen, Bellabeat
+
+### Summary
+
+- Bellabeat is a wearable for self-tracking pregnancy.
+- "Having a startup is like being repeatedly punched in the face"
+- Had to rebuild the prototype several times to make it something patients actually wanted to use. But never lost sight of what they were trying to do.
+- Europe is a tough market to crack. It is fragmented and 'stiff'. Connections do matter, and getting to the right people needs a lot of relentless scheming. You learn to build stuff from scratch. You become relentless.
+- Luck plays a role, e.g. winning the Pioneer competition and meeting someone who encouraged them to apply to YC.
+- What kept them surviving was a strong team & a great product.
+
+### Raw notes
+
+Developing systems for self-tracking pregnancy. A device and app that allows them to listen to the heartbeat.
+
+Bringing the quantified self to pregnancy.
+
+"Having a startup is like being repeatedly punched in the face"
+
+Started 18 months ago. Team of 20 people. US, Europe, Australia. Have sold devices in 000s.
+
+Still early.
+
+Dropped out of med school to study fine arts and sculpture. EVerything else is a waste of your time.
+
+Her work as a designer has taught her a few things. Working as a founder/artist is very personal; emotionally stressful, can find yourself very alone. Also very hard to let go; let other people see your work and evaluate it. You have to do it all over again, and again.
+
+No general recipe for success.
+
+Own idea/need is common. But started Bellabeat wanted to find a way to get her whole family involved; figured that care providers at this institution have been talking about remote patient monitoring for a long time. They didn't actually do anything about it. So Bellabeat decided to.
+
+Built a prototype. Why aren't people just calling us? REalised that they were doing everything wrong. Were building something from a professional care proider perspective; very complicated, and almost impossible to implement. The other problem was patients. They weren't motivated to start using something like that and didn't trust it. Prenatal care = emotional and social thing.
+
+Started to build it again from the bottom up. Consumer product - easy to understand emotional experience. Allowing them to include other people, their experience of pregnancy. Then found themselves in deep trobule: building hardware, super competitive. (Wearables).
+
+Still pretty early on. There will be a wave of these and gradually become integrated with our lives. Pregnancy as a good way in because it minimises risks - due to our modern lifestyle e.g. stress, obesity and so forth.
+
+How does it feel to be a European founder moving to the US?
+
+Europe is a tough market to crack. It is fragmented and 'stiff'. Connections do matter, and getting to the right people needs a lot of relentless scheming. You learn to build stuff from scratch. You become relentless.
+
+Luck: applied to the Pioneers festival in late 2013. Running otu of money, did have a product on the market etc and were getting traction but to cover all the things that come with it, they needed to hire more people. Didn't know how to get rewarded for the product.
+
+Full of self-doubt but won the competition; met Michael Siebel and he told them to apply to YC.
+
+By the time they got to YC demo day they had sold over 8k devices and closed a seed round in 2 weeks.
+
+What kept them surviving was a strong team & a great product.
+
+## Office Hours (Qasar Younis and Kevin Hale)
+
+Tip: Come to office hours with a specific problem in mind.
+
+If you're repeating things, that is a bad sign. Do a lot of things newly and keep momentum.
+
+### Company 1: Zealify
+
+Profile high-growth SMEs to build a brand-specific advantage. (?!)
+
+To help them attract great talent.
+
+Questions
+
+- Why pick startups?
+- What was the incentive for early adopters? (need social proof to get the virtuous circle going)
+- Which part of the chicken and egg are you focussing on?
+- As a student, why would I use this job board?
+- What are the students saying?
+- How many students have filled in the applications?
+- How are you going to get the next 100 companies?
+- What are the criteria for a good culture?
+- Do students actually want this?
+- What are the trigger points here for students to get onto the site? Why aren't students looking for startups?
+- If the biggest problem is education right now, how are you educating students?
+- Do you turn away companies? Do you actually keep the barrier high?
+
+Recommendations:
+- Talk to more students
+- Differentiators?
+- Culture is best experienced first hand: "If you say you're cool, we know you're not"
+- Maybe students just don't care about culture, or work for startups.
+
+### Company 2: Viewsy
+
+Put wifi sensors & 3d cameras to tell retailers how customers move around their store.
+
+Questions
+
+- Tell us about your startup.
+- What happens if people just walk by and don't go in? How do you tell whether they're inside or outside?
+- How many customers do you have? (4 paid customers)
+- Why do retailers want this?
+- What pieces of information do retailers want the most? (outside/inside ratio, how much time spent inside)
+- What do they do with those pieces of data? (relationship of time & money; stopping power)
+- How did you find the first 4 customers?
+- What was your key insight with small retailers?
+- What about bigger retailers? (sales cycle vs. need)
+- What's the next step for the pilots?
+- What was the most significant objection for the ones that said no?
+- Do you do benchmarks?
+
+Recommendations
+
+- Tweak the value prop to add actionable insights; retailers don't have data science teams.
+- Long sales cycles before you get money in the bank; not a clear way to get more retailers onboard (no virality etc.)
+- Could run out of money before they get off the ground.
+- Make people pay up front and shorten that sales cycle.
+- Pilots are often a way of someone doing something that they don't really want to.
+- Help them get to the touchdown moment quicker.
+
+### Company 3: Screenpush.me
+
+UX walkthrough.
+
+## Paul Buchheit, Y Combinator
+
+### Summary
+
+- Rather than give startup advice, Paul gave some advice on how to approach the world, i.e. some mental patterns.
+- I don't know anything.
+- Kill all daemon processes.
+- Yes, and thank you.
+- Choose the more interesting path.
+- Love what you do.
+
+### Raw notes
+
+Better to seek deep appeal. Even if most people don't get it.
+
+"This is a business defined by outliers"
+
+Technology is the patterns in your head. Those are really the important things, because everything comes out of that.
+
+A small change now makes a bi difference later.
+
+Little decisions matter the most; the ones we make unconsciously, thousands of times a day.
+
+What are your defaults? The things you keep top of mind. An effort to improve and tune.
+
+**1\. I don't know anything.**
+
+If I believe that I already know the answer, then I'm not open to learning larger truths.
+
+Naive young founders start the most successful companies. Often too arrogant to listen to those who 'know better'. Just because it didn't work before, oesn't mean it won't work now.
+
+Keep a beginner's mind.
+
+In 1997, Larry & Sergey tried to sell Google for $1m.
+
+Dogma & ideology even worse than experience. Ignoring dogma invites ridicule, or even punishment.
+
+Watch out for any belief that limits the range of your thinking. Logic and reason can limit us as much as anything else.
+
+**2\. Kill all daemon processes.**
+
+Things that run in the background. Computers often work better after rebooting.
+
+Doubt, anger, self-loathing. Internalised voices of parents, peers, media, or random people on the internet.
+
+These loops are parasitic and limiting. Everytime we try and do something new, they condemn you.
+
+Creating a product often involves spending years working on stuff that no one thinks matters.
+
+Many people thought Gmail should be scrapped. One executive thought that it'd never get to beyond a million users.
+
+The voices that interrupt the stillness are the ones that are the daemons.
+
+**3\. Yes, and thank you.**
+
+Things rarely work out the way we planned.
+
+Assume that whatever happened is for the best. Setbacks should be used to your advantage.
+
+Uber has been great at this. The taxi strike became a huge opportunity.
+
+Many of the best things are rooted in some of the worst events.
+
+Say 'yes, and thankyou'. Accept it as a gift.
+
+This has a way of transforming reality.
+
+**4\. Choose the more interesting path.**
+
+How to decide which startups to invest in? A big part of it is what is interesting.
+
+"When I saw Justin.TV, I asked if they were serious. They said yes. So I invested."
+
+Do the stuff where you are curious as to what will happen.
+
+Interestingness is a sign of unexplored, or underexplored, territory. Producttive uncertainty; whether or not they succeed or fail, I'm likely to learn something interesting.
+
+Redefine success as "learning something interesting".
+
+External success is a mistake.
+
+**5\. Love what you do.**
+
+Not "do what you love" - unattainable goal. Often if you do make it, reality is nothing like what you thought it'd be.
+
+More about changing how you do it.
+
+Goal-orientation - time between now and the goal = annoying.
+
+Gambling away a big chunk of your life.
+
+Long hours - was doing it because he loved building things. "I typically enjoyed at least 80% of my day".
+
+It's not always a fixed thing. He used to hate running, but learned to enjoy it.
+
+Intrinsic motivation and extrinsic motivation are best when they are both pointed in the same direction.
+
+The key to loving more unpleasant moments is meaning. If you genuinely care about what you're doing, bad moments take on a more heroic quality. Maintain a meaningful and inspiring vision.
+
+6. Maintain a healthy disregard for the impossible.
+
+"I think Larry Page learned this as a kid in summer camp."
+
+Absurdly ambitious ideas inside Google. Store and search the entire web inside memory. Everyone's thinking was oriented in that direction even though at the time it was impossible.
+
+I'd rather fail at something awesome than succeed at something inconsequential.
+
+Shed the limitations of outdated thinking.
+
+Gmail in Javascript; JS "had always ended in disaster." The impossible rapidly becaame the new normal.
+
+Startups are machines of harnessing the fire of human self-interest. NASA didn't get to the moon by vilifying gravity. fraction of our labour and resources. Putting an end to wage slavery. Everyone deserves that freedom. ("we will all have more wealth.")
+
+How many undiscovered Steve Jobses are there in the world?
+
+"We don't need more Jobs. We need more Steve Jobs."
+
+An unprecedented boom in human ingenuity and creativity.
+
+Full-stack hackers: tech is more than just patterns in silicon.
+
+Capitalism is a technology. It is tremendously valuable. (Government as an obsolete pattern.)
+
+The path is never obvious, and innovation happens in the most surprising ways.
+
+"The really valuable problems are the ones that you can solve" - Feynman
+
+## YC Partner Q&A
+
+On moving to the US:
+
+- Justin: Worth thinking about Cali due to offline network effect. Huge amount of capital.
+- Qasar: Energy: interestied in starting things. Feels very different.
+- Kirsty: British mentality is "Oh that'll never work". Cali: "Oh, that might just work."
+- PB: attitude towards risk. Outside the startup world, they don't get how crazy startups are. "I'll happily fund 100 stupid ideas if one of them turns out to be Google." Already assumes that most of his investments are losses.
+
+Are you starting YC abroad?
+
+- No.
+- Would like to fund co's from every country. But unsure about moving abroad.
+- SV: technical talent; sophisticated investors; liquidity events.
+
+If you have a UK company, do you have to reincorporate?
+
+- Yes, need to be a US company.
+- Many investors will only invest in US companies because of the difficulties involved in other types.
+
+What is the most important quality you look for in terms/founders?
+
+- Qasar: Grit/determination. People who are determined to do something.
+- PB: Can they actually see some of reality, or are they just chasing a trend? (Don't just look at TechCrunch - "to me, that's the opposite of evidence.") HAVE YOU EXPERIENCED THIS YOURSELF.
+
+What stage?
+
+- All stages, from idea/team to past seed round.
+- Mainly care about smart people who are dedicated to doing something.
+
+Co-founders:
+
+- Find a co-founder. Just do it. Startups are too hard alone to do well.
+- PB says Instacart was an exception - solo founder.
+- It's more fun to have a "crew".
+- Justin: "I wanted to quit every year." If you have too long a low state, you just give up.
+
+What are the biggest co-founder disputes
+- PB: Could you travel around the world with each other for a few months and not hate each other?
+- Asymmetric equity distributions are dumb. Don't do them.
+
+How did the no-idea application work out?
+- PB: "It was a great experiment. What we learned is that we're not going to do it anymore."
+- People who don't have ideas tend to continue not having ideas.
+- The first idea is an indication that they can come up with ideas.
+
+Rejection
+- In every batch, they get startups that they'd previously rejected. It's the ones who take the feedback and then re-apply.
+
+Non-profits
+- Too early to tell
+- Looking for scalable non-profits
+- Face the same set of problems as for-profits
+
+Starting a startup
+- Do it now!
+- "If you're 30, you have something like 400 months left in your life."
+- A year's runway.
+- Startups aren't for everyone: takes a specific type of person.
+- Don't give up. "They weren't that smart. They just stuck around."
+- PB: Make sure you're in contact with reality. e.g. "It's not ready yet." Sell the product and then build it. Have a user or a handful of users that you can focus on. Make something small and crappy and just give it to someone.
+- His goal for Gmail was to get to 100 happy users. "What would it take for your to be a happy user."
