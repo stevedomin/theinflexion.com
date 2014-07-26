@@ -570,7 +570,7 @@ If you're repeating things, that is a bad sign. Do a lot of things newly and kee
 
 ### Company 1: Zealify
 
-Profile high-growth SMEs to build a brand-specific advantage. (?!)
+Profile high-growth SMEs to build a brand-specific advantage.
 
 To help them attract great talent.
 
